@@ -1,2 +1,2 @@
 # hello-world1
-new 1
+//我在这里学习C语言
